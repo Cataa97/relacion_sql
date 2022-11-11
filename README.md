@@ -8,6 +8,10 @@ Creando relaciones:
 ![Image text](https://github.com/Cataa97/relacion_sql/blob/main/sql/Relaciones_foreignkey.png)
 
 
+Añadiendo datos a las columnas:
+![Image text](https://github.com/Cataa97/relacion_sql/blob/main/sql/datos.png)
+
+
 ER Diagram:
 ![Image text](https://github.com/Cataa97/relacion_sql/blob/main/sql/relaciones_2.png)
 
